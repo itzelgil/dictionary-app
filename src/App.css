@@ -7,6 +7,10 @@
   display: block;
 }
 
+.App-h1 {
+  text-align: center;
+}
+
 .App-footer {
   text-align: center;
   margin: 20px 0;
